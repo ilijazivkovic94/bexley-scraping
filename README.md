@@ -1,3 +1,5 @@
+# Bexley Scraping Tool
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -45,7 +47,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-# TEST URL
+## TEST URL
 ```
 http://localhost:3000/scrapper?url=https%3A%2F%2Fpa.bexley.gov.uk%2Fonline-applications%2FapplicationDetails.do%3FactiveTab%3Dsummary%26keyVal%3DQB17M7BEJ5U00
 ```
